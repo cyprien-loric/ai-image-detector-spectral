@@ -1,12 +1,19 @@
-# Donnees (trop lourdes, a telecharger separement)
+# Data
 data/
 
-# Environnement virtuel
+# Virtual environment
 .venv/
 
-# Cache Python
+# Python cache
 __pycache__/
 *.pyc
 
 # Jupyter
 .ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Local docs
+docs/
