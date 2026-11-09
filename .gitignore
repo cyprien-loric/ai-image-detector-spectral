@@ -1,0 +1,12 @@
+# Donnees (trop lourdes, a telecharger separement)
+data/
+
+# Environnement virtuel
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
